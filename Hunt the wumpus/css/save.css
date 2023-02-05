@@ -1,0 +1,71 @@
+/* 
+    Yash Patel , Student number : 000842226, Date : Oct 20, 2021
+    a css file for save.php file.
+*/
+
+.table
+    {
+        background-color: #59115122;
+        width: 50%;
+        margin: 30px auto;
+        margin-top: 10pt;
+        text-align: left;
+        color: 	#0a0500;
+        border: 2px solid #040501;
+        border-radius: 10px;
+        font-size: 25pt;
+        padding-top: 10px;
+        font-size: large;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .tableheader
+    {
+    background-color: coral;
+    border: 2px solid #040501;
+    border-radius: 10px;
+    text-align: center;
+    width: 10%;
+    }
+    td
+    {
+        text-align: center;
+
+    }
+    .link
+    {
+        width: 10%;
+        height: 40pt;
+        font-size: 25px;
+        background-color: #ffd941;
+        font-weight: bold;
+        border-radius: 10px;
+        border: 2px solid #040501;
+        text-align: center;
+    }
+    body{
+        width: 100%;
+    }
+    .playagain
+    {
+        text-align: center;
+    }
+    .td 
+
+    {
+
+    border: 2px solid #040501;
+    border-radius: 10px;
+    background-color: burlywood;
+    padding-top: 5pt;
+    border-collapse: collapse;
+    }
+    .dateheader
+    {
+    background-color: coral;
+    border: 2px solid #040501;
+    border-radius: 10px;
+    text-align: center;
+    width: 10%;
+
+    }

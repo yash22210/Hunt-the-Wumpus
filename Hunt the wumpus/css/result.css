@@ -1,0 +1,31 @@
+/* 
+    Yash Patel , Student number : 000842226, Date : Oct 20, 2021
+    a css file for result.php file.
+*/
+.form{
+    width: 20%;
+    
+    margin: 30px auto;
+    margin-top: 150pt;
+    text-align: left;
+    color: 	#0a0500;
+    border: 2px solid #040501;
+    border-radius: 10px;
+    font-size: 15pt;
+    padding-top: 10px;
+    background-color: #59115122;
+}
+#button_submit{
+        width: 30%;
+        height: 40pt;
+        font-size: 25px;
+        background-color: coral;
+        font-weight: bold;
+}
+
+#text
+{
+    width: 70%;
+    height: 20pt;
+    font-size: large;
+}
